@@ -43,7 +43,7 @@
 <h3>Stage 2: First Steps with SFML</h3>
 <ol>
     <li> Moving Square with Arrow Keys
-    <li> Bouncing Ball arounf in Window
+    <li> Bouncing Ball around in Window
     <li> Simple Game where the player avoids falling bouncy balls
 </ol>
 
@@ -65,9 +65,10 @@
 <h2>Timeline for Tasks</h2>
 <h3> learncpp.com </h3>
 <ul>
-    <li> (1/2/26) Chapter 1 complete
-    <li> (1/6/26) Chapter 2 complete
-    <li> (1/8/26) Chapter 3 complete
+    <li> (1/2/26)  Chapter 1 complete
+    <li> (1/6/26)  Chapter 2 complete
+    <li> (1/8/26)  Chapter 3 complete
+    <li> (1/11/26) Chapter 4 complete
 </ul>
 <h3> Game Making </h3>
 <ul>
