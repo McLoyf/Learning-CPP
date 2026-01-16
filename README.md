@@ -69,7 +69,7 @@
     <li> (1/6/26)  Chapter 2 complete
     <li> (1/8/26)  Chapter 3 complete
     <li> (1/11/26) Chapter 4 complete
-    <li> (1/16/26) Chapter 6 complete
+    <li> (1/16/26) Chapter 5 complete
 </ul>
 <h3> Game Making </h3>
 <ul>
