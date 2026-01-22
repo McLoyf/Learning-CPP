@@ -71,6 +71,7 @@
     <li> (1/11/26) Chapter 4 complete
     <li> (1/16/26) Chapter 5 complete
     <li> (1/18/26) Chapter 6 complete
+    <li> (1/21/26) Chapter O complete
 </ul>
 <h3> Game Making </h3>
 <ul>
