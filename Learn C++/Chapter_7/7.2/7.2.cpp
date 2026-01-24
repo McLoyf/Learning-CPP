@@ -1,0 +1,1 @@
+// 7.2 User-defined namespaces and the cope resolution operator
