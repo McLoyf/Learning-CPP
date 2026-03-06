@@ -1,0 +1,1 @@
+// Why (non-const) global variables are evil
