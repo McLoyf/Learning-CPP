@@ -1,0 +1,1 @@
+// Incline functions and variables
