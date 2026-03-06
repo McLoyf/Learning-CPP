@@ -1,0 +1,1 @@
+// External linkage and variable forward declarations
